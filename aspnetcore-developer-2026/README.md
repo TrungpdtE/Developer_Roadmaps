@@ -2,7 +2,7 @@
 
 Folder này bám theo ảnh `aspnetcore-developer-roadmap.png`. Nó tách riêng với các roadmap Java, tập trung vào C#, .NET 10, ASP.NET Core, EF Core, database, caching, testing, microservices, CI/CD và observability.
 
-![ASP.NET Core Developer Roadmap 2026](../aspnetcore-developer-roadmap.png)
+![ASP.NET Core Developer Roadmap 2026](aspnetcore-developer-roadmap.png)
 
 ## Mốc version nên học
 

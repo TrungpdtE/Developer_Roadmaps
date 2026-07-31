@@ -2,7 +2,7 @@
 
 Folder này tách riêng với roadmap Java core trước đó. Nó bám theo ảnh `java-developer-roadmap.png`: không chỉ học ngôn ngữ Java, mà học cả hệ sinh thái để đi làm backend Java.
 
-![Java Developer Roadmap 2026](../java-developer-roadmap.png)
+![Java Developer Roadmap 2026](java-developer-roadmap.png)
 
 ## Cách dùng roadmap này
 
